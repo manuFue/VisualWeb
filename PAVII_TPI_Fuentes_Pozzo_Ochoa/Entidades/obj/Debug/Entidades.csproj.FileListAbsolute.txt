@@ -1,0 +1,40 @@
+D:\WebSite1\Entidades\bin\Debug\Entidades.dll
+D:\WebSite1\Entidades\bin\Debug\Entidades.pdb
+D:\WebSite1\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\WebSite1\Entidades\obj\Debug\Entidades.dll
+D:\WebSite1\Entidades\obj\Debug\Entidades.pdb
+D:\Trabajo Integrado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\Trabajo Integrado\Entidades\obj\Debug\Entidades.dll
+D:\Trabajo Integrado\Entidades\obj\Debug\Entidades.pdb
+D:\Trabajo Integrado\Entidades\bin\Debug\Entidades.dll
+D:\Trabajo Integrado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\Trabajo Integrado\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\Trabajo Integrado\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\Trabajo Integrado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\Trabajo Integrado\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Desktop\Trabajo Integrado\Entidades\obj\Debug\Entidades.pdb
+D:\ODONTOLOGICO\Trabajo Integrado\Entidades\bin\Debug\Entidades.dll
+D:\ODONTOLOGICO\Trabajo Integrado\Entidades\bin\Debug\Entidades.pdb
+D:\ODONTOLOGICO\Trabajo Integrado\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\ODONTOLOGICO\Trabajo Integrado\Entidades\obj\Debug\Entidades.dll
+D:\ODONTOLOGICO\Trabajo Integrado\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\TP\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Nico\Desktop\TP\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Nico\Desktop\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Nico\Desktop\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Nico\Desktop\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.pdb
+D:\TP\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.dll
+D:\TP\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.pdb
+D:\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.dll
+D:\TP\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.pdb
+D:\TP_Facultad\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.dll
+D:\TP_Facultad\Trabajo Integrado 2\Entidades\bin\Debug\Entidades.pdb
+D:\TP_Facultad\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+D:\TP_Facultad\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.dll
+D:\TP_Facultad\Trabajo Integrado 2\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\PAV II\Trabajo Final CLINICA ODONTOLOGICA\PAVII_TPI_Fuentes_Pozzo_Ochoa\Entidades\bin\Debug\Entidades.dll
+C:\Users\Deckjazz\Desktop\PAV II\Trabajo Final CLINICA ODONTOLOGICA\PAVII_TPI_Fuentes_Pozzo_Ochoa\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Deckjazz\Desktop\PAV II\Trabajo Final CLINICA ODONTOLOGICA\PAVII_TPI_Fuentes_Pozzo_Ochoa\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Deckjazz\Desktop\PAV II\Trabajo Final CLINICA ODONTOLOGICA\PAVII_TPI_Fuentes_Pozzo_Ochoa\Entidades\obj\Debug\Entidades.dll
+C:\Users\Deckjazz\Desktop\PAV II\Trabajo Final CLINICA ODONTOLOGICA\PAVII_TPI_Fuentes_Pozzo_Ochoa\Entidades\obj\Debug\Entidades.pdb

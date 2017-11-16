@@ -1,0 +1,125 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="MasterPage.master.cs" Inherits="MasterPage" %>
+
+<!DOCTYPE html>
+<html lang="en">
+<head runat="server">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
+    <title>Clínica Odontológica</title>
+    <!-- Bootstrap -->
+    <!-- Latest compiled and minified CSS -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet">
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <link rel="stylesheet" href="//code.jquery.com/ui/1.11.4/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" href="/resources/demos/style.css">
+
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+
+
+    </asp:ContentPlaceHolder>
+
+
+</head>
+
+<body>
+    <div class="navbar navbar-inverse navbar-fixed-top">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" runat="server" href="~/Inicio.aspx">Cl&iacute;nica Odontol&oacute;gica</a>
+            </div>
+            <div class="navbar-collapse collapse">
+                <ul class="nav navbar-nav">
+
+
+
+
+         
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">ABMC <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a runat="server" id="A1" href="~/ABMCEmpleados.aspx">Empleados</a></li>
+                            <li><a runat="server" id="A2" href="~/ABMCPaciente.aspx">Pacientes</a></li>
+                            <li><a runat="server" id="A3" href="~/ABMCProveedores.aspx">Proveedores</a></li>
+                        </ul>
+                    </li>
+
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">INFORMES <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a runat="server" id="A4" href="~/InformeCompra.aspx">Compra</a></li>
+                            <li><a runat="server" id="A5" href="~/INFORMEFactura.aspx">Factura</a></li>
+                            <li><a runat="server" id="A6" href="~/INFORMEIntervenciones.aspx">Intervenciones</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Transacciones <span class="caret"></span></a>
+                        <ul class="dropdown-menu" >
+                            <li><a runat="server" id="A7" href="~/Compras.aspx">Compras</a></li>
+                            <li><a runat="server" id="A8" href="~/CUCENTRALFactura.aspx">Facturacion</a></li>
+                            <li><a runat="server" id="A9" href="~/CUCENTRALIntervencion.aspx">Intervencion</a></li>
+                        </ul>
+                    </li>
+
+
+
+                    <li><a runat="server" id="A10" href="~/Turnos.aspx">Turnos</a></li>
+
+                    <li><a runat="server" id="A11" href="">Contacto</a></li>
+
+                    <li><a runat="server" id="A12" href="~/Login.aspx">Login</a></li>
+
+                  <%--  <li><a runat="server" id="A13" href="~/Registrarse.aspx">Registrarse</a></li>--%>
+
+                    <li><a runat="server" id="A14" href="~/CerrarSesion.aspx">Cerrar Sesi&oacute;n</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </div>
+    <br />
+    <br />
+    <br />
+    <div class="container body-content">
+        <div class="row">
+            <%--<div class="col-md-1"></div>--%>
+            <div class="col-md-12">
+                <!--Aqui va el formulario-->
+                <form id="form1" runat="server">
+                    <div>
+                        <asp:ContentPlaceHolder ID="ContentPlaceHolderPrincipal" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </form>
+            </div>
+            <%--<div class="col-md-1"></div>--%>
+        </div>
+    </div>
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+    <script src="//code.jquery.com/ui/1.11.4/jquery-ui.js"></script>
+
+    <asp:ContentPlaceHolder ID="ContentPlaceHolderPie" runat="server">
+        
+    </asp:ContentPlaceHolder>
+
+</body>
+</html>
